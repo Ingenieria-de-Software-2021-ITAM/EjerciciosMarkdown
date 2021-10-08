@@ -1,3 +1,12 @@
 # EjerciciosMarkdown
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+1. Presencial
+    * Itzel
+    * Paulina
+
+[ITAM](https://www.itam.mx)
+
+## Recursos para Markdown
+
+* [Referencia actualizada](https://www.markdownguide.org/cheat-sheet/)
+* [Referencia para listas](https://wordpress.com/support/markdown-quick-reference/)
